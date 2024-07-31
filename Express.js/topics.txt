@@ -1,0 +1,20 @@
+Express.Js Learn What Matters:
+
+ham Express js ma just inhi topics par focus kary gay :
+
+1) Node vs Express --> node is the main thing but express ka code sa ham server ka code easily likh skty hian 
+or server kasa react kary ga wo bh ham express ki help sa likh skty hian,and express node ka hi framwork ha, jisy ham backend framwork bh kahty hian,
+
+2) Why Express js ---> http is difficult to use express make this easier, and or bh bht si wajohat hain.
+
+3) Routing 
+4) Middlewear
+5) Request and Response --->request ma sara data hota ha any waly user ki request ki taraf ka, jasa ka unki location,device info etc,
+response ma control hoty hain jin ki basis par ham server sa response bhej paty hian, next is  just a push so that our request moves to the next thing whidch fshould be executed. 
+
+
+6) Route parameters
+7) Static files
+8) Template Engin 
+9) Http methods - Get Post
+10) Error Handling

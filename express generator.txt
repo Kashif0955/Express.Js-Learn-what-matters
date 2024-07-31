@@ -1,0 +1,35 @@
+Express Generator:
+
+ham Logo ko kafi sara kam karna parta ha har bar Express ko setup karny ka liya, matlab ka 
+jab bh apko koi bh project bnana ho apko bar bar khud sa files create karny parti hain, bht sara code bh likhna parta ha,
+setup karna parta ha express ko, to in sab ma jo time waste hota ha us time ko ham bacha skty hian with the help of "Express Generator".
+use express generator and it will make the folder structure for you and it will also write the basic code for the project.
+
+
+Express generator ak folder bna kar dyta ha matlab apko extra files,flder bnany ki zarorat nh hoti, wo sab kam khd kar k dyta h,
+
+Steps to use Express Generator:
+
+install atleast one time Express Generator in your Pc , 
+then open your terminal and type
+ "npm install express-generator -g" and hit enter.
+
+ to create new app anywhere:
+ create new app command:
+ "express appname --view=ejs"
+
+ yah sab karny ka bad,now use two commands:
+
+ cd appname,
+ npm i,
+ open it on vs code.
+
+
+Major changes of Express vs Express Generator 
+
+app.get ki jga ham express generator ma router.get use karty hain,
+
+express ma ham project run karny ka liya "npx nodemon filename" ---> "npx nodemon" ak bar chlany sa simple project run ho jay ga.
+
+ 
+

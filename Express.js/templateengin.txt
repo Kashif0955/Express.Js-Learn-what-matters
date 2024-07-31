@@ -1,0 +1,41 @@
+Template Engin 
+
+template engin ko ap simple yahi samjh lay ka "ejs is the superpower of html", ejs iski extension ha mean ham 
+is name sa file bna skty hain.
+
+template engin ko apny project ma use karny ka tareeqa:
+
+1) ejs install 
+
+npm i ejs
+
+2) configure ejs in you script.js file | agar script par kam kar rahy ho to script otherwise jo apki file ho
+
+app.set("view engine",""ejs);    isy kahi bh configure kar skty hian script.js ma 
+
+3) create views name folder
+
+4) in views folder create files using ejs, like index.ejs etc.
+
+5) send ki jagah render karo => render karty waqt make sure kary app view folder ka andar wali 
+file ko bhej rhy ho or just file name likhna ha .ejs sath nh likhna ok.
+
+
+====================================
+
+Statis files  yah ak or topic ha express ka jo dar asal ap agar template ka sath use karty hian to easy rahta ha:
+
+static files ka matlab ha ka simple static files bnana or usy call karna, ab yah hota kasa ha ay usy dekhty hain.
+
+static files setup karny ka tareeqa:
+
+1) create a folder jiska name public ho.
+2) create three folder inside it,  like stylesheets, javascript, images.
+3) static file ko configure karna apny home file ma example.
+
+   app.use(express.static("/public"));
+
+4) understanding the path 
+
+
+
